@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm a senior software engineer, back-end technical lead and architect in Madrid, working at lastminute.com. Loving gaming and motorbikes. Writing software since I was 9. Since 1987 ;-)
 
