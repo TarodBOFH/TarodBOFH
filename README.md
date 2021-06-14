@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a senior software engineer, back-end technical lead and architect in Madrid, working at lastminute.com. Loving gaming and motorbikes. Writing software since I was 9. Since 1987 ;-)
+I'm a senior software engineer, back-end techlead and lead architect in Madrid, working at lastminute.com. Loving gaming and motorbikes. Writing software since I was 9. Since 1987 ;-)
 
 ## backend \| architect \| coach
 ```
