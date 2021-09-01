@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a senior software engineer, back-end techlead and lead architect in Madrid, working at lastminute.com. Loving gaming and motorbikes. Writing software since I was 9. Since 1987 ;-)
+I've been a senior software engineer, back-end techlead and lead architect in Madrid. Now I'm Senior Engineering Manager working at Klarna. Loving gaming and motorbikes. Writing software since I was 9. Since 1987 ;-)
 
 ## backend \| architect \| coach
 ```
